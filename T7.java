@@ -20,7 +20,7 @@ class rectangle implements Resizable{
          System.out.println("Rectengle Hieght"+hieght);
      }
 }
-public class P7 {
+public class T7 {
     public static void main(String[] args) {
         rectangle r1=new rectangle(5,10);
         System.out.println("\n Original size rectangle:");

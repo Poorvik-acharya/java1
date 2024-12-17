@@ -31,7 +31,7 @@ System.out.println(stk[i]);}
      }
  
  }
-public class P2{
+public class T2{
     public static void main(String[] args) {
         int ch;
         Stack stack1=new Stack();

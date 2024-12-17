@@ -30,7 +30,7 @@ class Employee{
  *
  * @author SMV
  */
-public class EmployeeS{
+public class T3{
     public static void main(String[] args){
         Employee emp1=new Employee(1,"kuthyar",5000);
         emp1.getEmpDetails();

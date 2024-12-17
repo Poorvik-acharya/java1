@@ -8,7 +8,7 @@ class Outer{
         }
     }
 }
-public class P8 {
+public class T8 {
     public static void main(String[] args) {
         Outer o1=new Outer();
         o1.display();
